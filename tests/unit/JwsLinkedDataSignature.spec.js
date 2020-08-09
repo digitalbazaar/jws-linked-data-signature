@@ -7,12 +7,12 @@ chai.use(dirtyChai);
 chai.should();
 const {expect} = chai;
 
-import {Example} from '../../';
+import {JwsLinkedDataSignature} from '../../';
 
-describe('Example', () => {
+describe('JwsLinkedDataSignature', () => {
   describe('constructor', () => {
     it('should exist', async () => {
-      const ex = new Example();
+      const ex = new JwsLinkedDataSignature({type: 'ExampleType'});
 
       expect(ex).to.exist();
     });
