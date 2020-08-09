@@ -25,6 +25,7 @@
   "dependencies": {
     "base64url-universal": "^1.1.0",
     "esm": "^3.2.25",
+    "jsonld": "^2.0.2",
     "jsonld-signatures": "digitalbazaar/jsonld-signatures#v6.x",
     "node-forge": "^0.9.1"
   },
