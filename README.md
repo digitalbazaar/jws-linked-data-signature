@@ -1,8 +1,8 @@
-# Example Isomorphic JS Lib Template _(isomorphic-js-lib-template)_
+# JwsLinkedDataSignature suite _(@digitalbazaar/jws-linked-data-signature)_
 
-[![Node.js CI](https://github.com/digitalbazaar/isomorphic-js-lib-template/workflows/Node.js%20CI/badge.svg)](https://github.com/digitalbazaar/isomorphic-js-lib-template/actions?query=workflow%3A%22Node.js+CI%22)
+[![Node.js CI](https://github.com/digitalbazaar/jws-linked-data-signature/workflows/Node.js%20CI/badge.svg)](https://github.com/digitalbazaar/jws-linked-data-signature/actions?query=workflow%3A%22Node.js+CI%22)
 
-> A template skeleton repo for (non-Bedrock) JS libraries that run in Node.js and in the browser.
+> Abstract Linked Data Proof suite for use with jsonld-signatures with Ed25519Signature2018 and RsaSignature2018 suites.
 
 ## Table of Contents
 
@@ -29,8 +29,8 @@ TBD
 To install locally (for development):
 
 ```
-git clone https://github.com/digitalbazaar/isomorphic-js-lib-template.git
-cd isomorphic-js-lib-template
+git clone https://github.com/digitalbazaar/jws-linked-data-signature.git
+cd jws-linked-data-signature
 npm install
 ```
 
