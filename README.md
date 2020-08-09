@@ -16,7 +16,7 @@
 
 ## Background
 
-TBD
+For use with https://github.com/digitalbazaar/jsonld-signatures v6.0 and above.
 
 ## Security
 
