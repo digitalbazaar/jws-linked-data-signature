@@ -1,9 +1,7 @@
 /*!
- * Copyright (c) 2020 Digital Bazaar, Inc. All rights reserved.
+ * Copyright (c) 2020-2021 Digital Bazaar, Inc. All rights reserved.
  */
 import chai from 'chai';
-import dirtyChai from 'dirty-chai';
-chai.use(dirtyChai);
 chai.should();
 const {expect} = chai;
 
@@ -14,7 +12,7 @@ describe('JwsLinkedDataSignature', () => {
     it('should exist', async () => {
       const ex = new JwsLinkedDataSignature({type: 'ExampleType'});
 
-      expect(ex).to.exist();
+      expect(ex).to.exist;
     });
   });
 });
