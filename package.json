@@ -26,8 +26,7 @@
     "base64url-universal": "^1.1.0",
     "esm": "^3.2.25",
     "jsonld": "^5.0.0",
-    "jsonld-signatures": "digitalbazaar/jsonld-signatures#v8.x",
-    "node-forge": "^0.9.1"
+    "jsonld-signatures": "^8.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.0",
