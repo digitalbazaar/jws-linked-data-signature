@@ -1,6 +1,9 @@
 # JwsLinkedDataSignature suite _(@digitalbazaar/jws-linked-data-signature)_
 
-[![Node.js CI](https://github.com/digitalbazaar/jws-linked-data-signature/workflows/Node.js%20CI/badge.svg)](https://github.com/digitalbazaar/jws-linked-data-signature/actions?query=workflow%3A%22Node.js+CI%22)
+[![Build status](https://img.shields.io/github/workflow/status/digitalbazaar/jws-linked-data-signature/Node.js%20CI)](https://github.com/digitalbazaar/jws-linked-data-signature/actions?query=workflow%3A%22Node.js+CI%22)
+[![Coverage status](https://img.shields.io/codecov/c/github/digitalbazaar/jws-linked-data-signature)](https://codecov.io/gh/digitalbazaar/jws-linked-data-signature)
+[![Dependency Status](https://img.shields.io/david/digitalbazaar/jws-linked-data-signature.svg)](https://david-dm.org/digitalbazaar/jws-linked-data-signature)
+[![NPM Version](https://img.shields.io/npm/v/digitalbazaar/jws-linked-data-signature.svg)](https://npm.im/digitalbazaar/jws-linked-data-signature)
 
 > Abstract Linked Data Proof suite for use with jsonld-signatures with Ed25519Signature2018 and RsaSignature2018 suites.
 
