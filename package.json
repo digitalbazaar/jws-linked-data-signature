@@ -49,7 +49,7 @@
   },
   "nyc": {
     "exclude": [
-      "tests"
+      "test"
     ],
     "reporter": [
       "html",
