@@ -7,6 +7,10 @@ const {expect} = chai;
 
 import {JwsLinkedDataSignature} from '../../';
 
+/**
+ * NOTE: Test coverage of this package currently depends on indirect testing
+ * through other signature package test suites.
+ */
 describe('JwsLinkedDataSignature', () => {
   describe('constructor', () => {
     it('should exist', async () => {
