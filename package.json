@@ -25,7 +25,6 @@
   "dependencies": {
     "base64url-universal": "^1.1.0",
     "esm": "^3.2.25",
-    "jsonld": "^5.2.0",
     "jsonld-signatures": "digitalbazaar/jsonld-signatures#credentials-vs-2018"
   },
   "devDependencies": {
