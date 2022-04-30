@@ -5,7 +5,7 @@ import chai from 'chai';
 chai.should();
 const {expect} = chai;
 
-import {JwsLinkedDataSignature} from '../../';
+import {JwsLinkedDataSignature} from '../../lib/index.js';
 
 /**
  * NOTE: Test coverage of this package currently depends on indirect testing
