@@ -1,6 +1,6 @@
 # @digitalbazaar/jws-linked-data-signature Changelog
 
-## 2.0.0 - 2022-xx-xx
+## 2.0.0 - 2022-06-07
 
 ### Changed
 - **BREAKING**: Convert to module (ESM).
