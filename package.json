@@ -1,6 +1,6 @@
 {
   "name": "@digitalbazaar/jws-linked-data-signature",
-  "version": "2.0.0",
+  "version": "2.0.1-0",
   "description": "Abstract Linked Data Proof suite for use with jsonld-signatures with Ed25519Signature2018 and RsaSignature2018 suites.",
   "homepage": "https://github.com/digitalbazaar/jws-linked-data-signature",
   "author": {
