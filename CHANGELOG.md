@@ -1,6 +1,6 @@
 # @digitalbazaar/jws-linked-data-signature Changelog
 
-## 3.0.0 - 2022-10-xx
+## 3.0.0 - 2022-10-25
 
 ### Changed
 - **BREAKING**: Use `jsonld-signatures@11` to get better safe mode
