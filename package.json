@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "base64url-universal": "^2.0.0",
-    "jsonld-signatures": "^10.0.0"
+    "jsonld-signatures": "^11.0.0"
   },
   "devDependencies": {
     "c8": "^7.11.3",
